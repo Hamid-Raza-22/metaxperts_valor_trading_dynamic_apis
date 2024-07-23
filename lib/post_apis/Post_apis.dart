@@ -5,7 +5,7 @@ import '../ip_addresses/IP_addresses.dart';
 String attendanceApi ="$IP_Address/attendance/post/";
 String attendanceOutApi ="$IP_Address/attendanceout/post/";
 String locationApi ="$IP_Address/location/post/";
-String orderMasterApi ="$IP_Address/ordermater/post/";
+String orderMasterApi ="$IP_Address/ordermaster/post/";
 String orderDetailsApi ="$IP_Address/orderdetail/post/";
 String shopVisitApi ="$IP_Address/report/post/";
 String stockCheckItemsApi ="$IP_Address/shopvisit/post/";

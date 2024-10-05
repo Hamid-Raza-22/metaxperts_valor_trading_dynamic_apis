@@ -16,6 +16,7 @@ String shopDetails = "$IP_Address/shopp1/get/";
 String orderBookingStatus = "$IP_Address/statusget1/get/";
 String brandsApi ="$IP_Address/brand1/get/";
 
+
 // Alternative Server APIs for GET
 String altLoginApi = "$Alt_IP_Address/login1/get/";
 String altAccountApi= "$Alt_IP_Address/accounts/get/";

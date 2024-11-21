@@ -13,6 +13,9 @@ String orderMaster = "$IP_Address/masterget1/get/";
 // String productsApi = "$IP_Address/product1/get/";
 String productsApi = "$IP_Address/products/get/";
 String shopDetails = "$IP_Address/shopp1/get/";
+  String shopDetails2 = "$IP_Address/shopp2/get/";
+  String shopDetails3 = "$IP_Address/shopp3/get/";
+  String shopDetails4 = "$IP_Address/shopp4/get/";
 String orderBookingStatus = "$IP_Address/statusget1/get/";
 String brandsApi ="$IP_Address/brand1/get/";
 
@@ -54,6 +57,7 @@ String altRefOrderDetails= "$Alt_IP_Address/newdetailsgettime/get/";
 String altRefOrderMaster = "$Alt_IP_Address/newmastergettime/get/";
 String altRefProductsApi = "$Alt_IP_Address/newproductget/get/";
 String altRefShopDetails = "$Alt_IP_Address/newshopp1/get/";
+
 String altRefOrderBookingStatus = "$Alt_IP_Address/newstatusgettime/get/";
 String altRefBrandsApi ="$Alt_IP_Address/newbrands/get/";
 

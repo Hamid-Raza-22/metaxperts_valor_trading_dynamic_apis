@@ -43,6 +43,7 @@ String refShopDetails = "$IP_Address/newshopp1/get/";
 String refOrderBookingStatus = "$IP_Address/newstatusgettime/get/";
 String refBrandsApi ="$IP_Address/newbrands/get/";
 
+
 // Alternative Refresh Server APIs for GET
 String altRefLoginApi = "$Alt_IP_Address/logindata/get/";
 String altRefAccountApi= "$Alt_IP_Address/newaccounttime/get/";

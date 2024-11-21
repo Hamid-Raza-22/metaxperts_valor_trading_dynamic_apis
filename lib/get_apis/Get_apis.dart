@@ -55,3 +55,15 @@ String altRefProductsApi = "$Alt_IP_Address/newproductget/get/";
 String altRefShopDetails = "$Alt_IP_Address/newshopp1/get/";
 String altRefOrderBookingStatus = "$Alt_IP_Address/newstatusgettime/get/";
 String altRefBrandsApi ="$Alt_IP_Address/newbrands/get/";
+
+  String bookerStatusGetApi ="$IP_Address/bookerattendanceStatus/get/";
+  dynamic smStatusGetApi ="$IP_Address/smstatus/get/";
+  String smBookerStatusGetApi ="$IP_Address/smbookerstatus/get/";
+  String nsmBookerStatusGetApi ="$IP_Address/nsmbookerstatus/get/";
+  String nsmRSMStatusGetApi ="$IP_Address/nsmrsmstatus/get/";
+  String nsmSMStatusGetApi ="$IP_Address/nsmsmstatus/get/";
+  String rsmShopStatusGetApi ="$IP_Address/shopnames/get/";
+  String smShopStatusGetApi ="$IP_Address/smshops/get/";
+  String nsmShopStatusGetApi ="$IP_Address/nsmshops/get/";
+
+  String attendanceStatusGetApi ="$IP_Address/attendancedata/get/";

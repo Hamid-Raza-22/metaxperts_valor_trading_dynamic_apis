@@ -4,6 +4,7 @@ import '../ip_addresses/IP_addresses.dart';
 
 
 String loginApi = "$IP_Address/login1/get/";
+String loginTestingApi = "$IP_Address/logintesting/get/";
 String accountApi= "$IP_Address/accounts/get/";
 String balance = "$IP_Address/allbalance/get/";
 String recoveryForm = "$IP_Address/recovery1/get/";
